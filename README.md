@@ -5,6 +5,8 @@ Geospatial Big Data Analytics 2022
 
 ## Short links for lecture slide and exercises:
 
+Lecture Slides: https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides
+
 ### Module 0: Visualization
 
 Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/GISTDA_2022_transformed.csv
