@@ -7,8 +7,7 @@ Geospatial Big Data Analytics 2022
 
 ### Module 0: Visualization
 
-1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/GISTDA_2021_transformed.csv
-2. Country (with Lat/Lon): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/countries.csv
+Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/GISTDA_2022_transformed.csv
 
 ### Module 1: PySpark
 
@@ -25,7 +24,7 @@ Geospatial Big Data Analytics 2022
 2. Iris DataSet (Classification): https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/assignment/1_DecisionTree_Pipeline_Iris_toStudent.ipynb
 
 ### Module 3: Deep Learning (Convolution Neural Networks)
-1. Basic Convolution Neural Networks: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb
+Basic Convolution Neural Networks: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb
 
 ### Reference:
 
