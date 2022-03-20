@@ -7,7 +7,8 @@ Geospatial Big Data Analytics 2022
 
 ### Module 0: Visualization:
 
-Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/blob/main/dataset/visualize/GISTDA_2021_transformed.csv
+Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/GISTDA_2021_transformed.csv
+Country (with Lat/Lon): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/countries.csv
 
 ### Module 1: PySpark
 
