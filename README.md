@@ -5,6 +5,10 @@ Geospatial Big Data Analytics 2022
 
 ## Short links for lecture slide and exercises:
 
+### Module 0: Visualization:
+
+Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/blob/main/dataset/visualize/GISTDA_2021_transformed.csv
+
 ### Module 1: PySpark
 
 0. PySpark Transform and Action: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/0_Pyspark_Transform_Action.ipynb
@@ -28,3 +32,4 @@ Geospatial Big Data Analytics 2022
 2. https://www.tensorflow.org/tutorials
 3. https://github.com/topics/machine-learning
 4. https://archive.ics.uci.edu/ml/datasets.php
+5. https://www.analyticsvidhya.com/blog/2021/12/disaster-tweet-classification-using-bert-neural-network/
