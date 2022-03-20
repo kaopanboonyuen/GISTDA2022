@@ -26,6 +26,8 @@ Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/mai
 ### Module 3: Deep Learning (Convolution Neural Networks)
 Basic Convolution Neural Networks: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb
 
+** Lecture Slide (from https://cs231n.stanford.edu/): http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
+
 ### Reference:
 
 1. https://www.kaggle.com/code
@@ -33,3 +35,4 @@ Basic Convolution Neural Networks: https://colab.research.google.com/github/kaop
 3. https://github.com/topics/machine-learning
 4. https://archive.ics.uci.edu/ml/datasets.php
 5. https://www.analyticsvidhya.com/blog/2021/12/disaster-tweet-classification-using-bert-neural-network/
+6. http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
