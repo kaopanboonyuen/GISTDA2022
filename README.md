@@ -15,7 +15,6 @@ Geospatial Big Data Analytics 2022
 5. Classification: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/5_Pyspark_Classification_Pipeline_Churn.ipynb
 6. Clustering: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/6_Pyspark_Clustering_Pipeline_Cdr.ipynb
 
-
 ### Module 2: PySpark (Assignment)
 1. Titatic DataSet: https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/assignment/0_Pyspark_Titanic_toStudent.ipynb
 2. Iris DataSet (Classification): https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/assignment/1_DecisionTree_Pipeline_Iris_toStudent.ipynb
