@@ -9,7 +9,8 @@ Lecture Slides: https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_s
 
 ### Module 0: Visualization
 
-Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/disaster_text.csv
+1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/disaster_text.csv
+2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/med_resources_text.csv
 
 ### Module 1: PySpark
 
