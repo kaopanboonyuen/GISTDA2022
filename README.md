@@ -1,5 +1,6 @@
-# GISTDA2022
-Geospatial Big Data Analytics 2022
+# Geospatial Big Data Analytics (GISTDA Training 2022)
+
+Lecturer: Kao Panboonyuen, Ph.D.
 
 Contact: panboonyuen.kao@gmail.com
 
