@@ -1,5 +1,7 @@
 # Geospatial Big Data Analytics (GISTDA Training 2022)
 
+[![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
+
 Lecturer: Kao Panboonyuen, Ph.D.
 
 Contact: panboonyuen.kao@gmail.com
@@ -15,7 +17,7 @@ Lecture Slides: https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_s
 Google Data Studio: https://datastudio.google.com/
 
 1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/disaster_text.csv
-2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/med_resources_text.csv
+2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/med_resources_text_v2.csv
 
 ### Module 1: PySpark
 
