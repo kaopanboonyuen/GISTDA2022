@@ -2,7 +2,7 @@
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
-Lecturer: Kao Panboonyuen, Ph.D.
+Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: panboonyuen.kao@gmail.com
 
@@ -10,7 +10,7 @@ Contact: panboonyuen.kao@gmail.com
 
 ## Short links for lecture slide and exercises:
 
-Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/view-slides-darkgreen.svg)](https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides)
+Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/view-slides-darkgreen.svg)](https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides) https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides
 
 ### Module 0: Visualization 
 
