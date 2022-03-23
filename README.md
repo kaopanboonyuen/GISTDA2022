@@ -6,8 +6,6 @@ Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: panboonyuen.kao@gmail.com
 
-About me: https://kaopanboonyuen.github.io/
-
 ![alt text](https://github.com/kaopanboonyuen/GISTDA2022/blob/main/files/pyspark_logo_v2.png)
 
 ## Short links for lecture slide and exercises:
